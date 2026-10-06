@@ -124,6 +124,4 @@ Windows 10 · 11 &nbsp;|&nbsp; 설치 파일 하나로 끝 (.NET·DB 따로 설�
 
 만든 사람: **SuHyun** &nbsp;·&nbsp; 의견이나 버그는 알려 주세요
 
-<sub>SideNote는 개인이 만든 프로그램이며 Microsoft와 관계가 없어요. Windows는 Microsoft의 상표예요.</sub>
-
 </div>
