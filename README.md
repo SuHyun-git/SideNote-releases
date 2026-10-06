@@ -1,6 +1,8 @@
 <div align="center">
 
-# 📝 SideNote
+<img src="images/icon.png" width="96" alt="SideNote 아이콘">
+
+# SideNote
 
 **화면 가장자리에 붙어 사는 메모 앱**
 
