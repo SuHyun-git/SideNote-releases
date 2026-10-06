@@ -51,12 +51,12 @@ Windows 10 · 11 &nbsp;|&nbsp; 설치 파일 하나로 끝 (.NET·DB 따로 설�
 
 <table>
 <tr>
-<td><img src="images/all-memos-light.png" alt="전체 메모 밝은 모드"></td>
-<td><img src="images/all-memos-dark.png" alt="전체 메모 어두운 모드"></td>
+<td><img src="images/all-memos-light.png" alt="전체 메모 라이트 모드"></td>
+<td><img src="images/all-memos-dark.png" alt="전체 메모 다크 모드"></td>
 </tr>
 <tr>
-<td align="center">밝은 모드</td>
-<td align="center">어두운 모드</td>
+<td align="center">라이트 모드</td>
+<td align="center">다크 모드</td>
 </tr>
 </table>
 
@@ -70,7 +70,7 @@ Windows 10 · 11 &nbsp;|&nbsp; 설치 파일 하나로 끝 (.NET·DB 따로 설�
 | 🎨 **색상** | 메모 색, 글자 색, 기본 글자 크기까지 내 마음대로 |
 | 🔎 **전체 메모** | 검색, 색상별·북마크 보기, 정렬, 휴지통 (30일 뒤 자동 정리) |
 | 💾 **자동 저장** | 입력을 멈추면 바로 저장. 껐다 켜도 열려 있던 메모가 그 자리에 |
-| 🌓 **화면 모드** | 시스템 설정 따르기 / 밝은 / 어두운 |
+| 🌓 **화면 모드** | 시스템 설정 / 라이트 모드 / 다크 모드 |
 | 🖼️ **나만의 아이콘 · 꾸미기** | 앱 아이콘을 내 그림으로, 메모 위쪽에 그림·이모지 장식 |
 | 🔄 **자동 업데이트** | 켤 때 새 버전을 알려 주고, 버튼 하나로 업데이트 |
 
